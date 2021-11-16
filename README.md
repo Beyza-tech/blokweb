@@ -39,9 +39,11 @@ Responsive
 https://intl.needleandthread.com/
  
 Home page
+ 
  <img src="images/home.PNG" width="375px" alt="Home pagina">
 
 Look book
+ 
  <img src="images/lookbook.PNG" width="375px" alt="Look book">
  
 </details>
