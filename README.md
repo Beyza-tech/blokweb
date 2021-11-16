@@ -39,10 +39,10 @@ Responsive (kies uit responsive óf surface plane)
 https://intl.needleandthread.com/
  
 #### Screenshot(s) van de eerste pagina (small screen): 
-Home page<img src="images/home.png" width="375px" alt="Home pagina">
+Home page<img src="images/home.PNG" width="375px" alt="Home pagina">
 
 #### Screenshot(s) van de tweede pagina (small screen):
-Look book<img src="images/lookbook.png" width="375px" alt="Look book">
+Look book<img src="images/lookbook.PNG" width="375px" alt="Look book">
  
 </details>
 
