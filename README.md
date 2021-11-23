@@ -16,13 +16,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Auteur:
-Beyza 
+Sanne 't Hooft (vervangen door jouw naam)
 
 #### Je startniveau:
-Blauw 
+hier je startniveau (kies uit zwart, rood óf blauw)
 
 #### Je focus:
-Responsive 
+hier je focus (kies uit responsive óf surface plane)
  
 </details>
 
@@ -36,16 +36,15 @@ Responsive
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Je opdracht:
-https://intl.needleandthread.com/
- 
-Home page
- 
- <img src="images/home.PNG" width="375px" alt="Home pagina">
+link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
 
- 
-Look book
- 
- <img src="images/lookbook.PNG" width="375px" alt="Look book">
+#### Screenshot(s) van de eerste pagina (small screen): 
+hier de naam van de pagina  
+<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+
+#### Screenshot(s) van de tweede pagina (small screen):
+hier de naam van de pagina  
+<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
